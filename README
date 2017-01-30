@@ -1,0 +1,7 @@
+This project was created an completed by Daniel Newton.
+
+The idea was to make a game that uses a similar perspective and control to the 2D Legend of Zelda games.
+
+The object of the game is to push the blocks out of your way so that you can reach the end of the level.
+Blocks can only be pushed once.
+If the player get stuck they can use the pause menu to restart the level.
